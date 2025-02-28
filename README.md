@@ -1,6 +1,12 @@
 # Implementation_of_Chatbot_using_NLP
 Implementation of Chatbot by using NLP 
 
+This is a simple chatbot implemented using Natural Language Processing (NLP) techniques. It uses NLTK for text processing and scikit-learn for intent classification.
+
+## Features
+- Responds to greetings, farewells, and specific queries.
+- Provides health advice, fun facts, and learning resources.
+- Handles unknown inputs gracefully.
 
 ## Chatbot Output Examples
 
