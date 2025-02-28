@@ -5,6 +5,7 @@ Implementation of Chatbot by using NLP
 ## Chatbot Output Examples
 
 Chatbot: Hi! I'm your assistant. Type 'exit' to end the chat.
+
 You:  good morning
 
 Chatbot: Hey!
