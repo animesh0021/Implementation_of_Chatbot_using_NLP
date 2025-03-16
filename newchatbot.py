@@ -198,7 +198,7 @@ def display_about_section():
     - 📊 Scikit-learn for machine learning.
     - 🖥️ Streamlit for interactive UI.
 
-    Developed with ❤️ by **Animesh Agarkar** | Version **2.1**.
+    Developed by **Animesh Agarkar** | Version **2.1**.
     """)
 
 # -------------------------------
